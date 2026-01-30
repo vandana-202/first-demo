@@ -1,2 +1,3 @@
 # first-demo
-this my first git reposioryt
+this my first git repository.
+vandana
